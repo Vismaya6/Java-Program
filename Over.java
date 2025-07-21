@@ -16,7 +16,7 @@ class Calculator{
 	}
 	public void add(String name,int num) {
 		String add=name+num;
-		System.out.println("Sum of integers: "+add);
+		System.out.println("Concatenated: "+add);
 	}
 	
 }
